@@ -1,7 +1,7 @@
 # Documentación
 - Ejemplo de uso
 - [Configuración del bot en supergrupos](#configuración-del-bot-en-supergrupos)
-- Registro
+- Registro de usuarios
 - [Comandos](#comandos)
   - [Comandos de configuración del bot](#comandos-de-configuraci%C3%B3n-del-bot)
   - [Comandos útiles](#comandos-útiles)
@@ -31,7 +31,7 @@ El bot permite configurar ciertos parámetros para el correcto funcionamiento de
   - Establecimiento del número de advertencias que recibirá un usuario antes de ser expulsado en caso de exceder el limite de las mismas.
   - Habilitar o deshabilitar la función antibots.
 
-## Registro
+## Registro de usuarios
 
 ## Comandos
 Ciertos comandos requieren parámetros, para que se entienda su funcionamiento exponemos un ejemplo:
