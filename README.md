@@ -8,7 +8,10 @@
 - FAQ - Preguntas frecuentes
 
 ## Funcionamiento
+El bot detecta los comandos de dos maneras distintas, por ejemplo, puedes llamar al comando `profile` de las siguientes maneras:
+`!profile` o `/profile`.
 
+> El resto de comandos siguen el mismo patrón
 ## Configuración del bot en supergrupos
 El bot permite configurar ciertos parámetros para el correcto funcionamiento de sus comandos en supergrupos haciendo uso del comando `[/ o !] setting`.
 - Ejemplos:
