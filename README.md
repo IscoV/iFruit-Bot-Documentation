@@ -1,27 +1,23 @@
-# Documentación
 
-- Registro
-- Configuración
-- Configuración del bot en supergrupos
-- Antibots
-- Hashtags
-- FAQ - Preguntas frecuentes
+Documentación
+• Registro
+• Configuración
+• Configuración del bot en supergrupos
+• Antibots
+• Hashtags
+• FAQ - Preguntas frecuentes
 
-## Registro
+Registro
 
-## Configuración
+Configuración
 
-## Comandos
+Comandos
+￼￼
 
-|  Comando  | Descripción |
-|  -------  | ----------- |
-|  /profile | Permite obtener tu perfil de Social Club para ser compartido con otras personas siempre y cuando, previamente te hayas registrado primero |
+Configuración del bot en supergrupos
 
-## Configuración del bot en supergrupos 
+Antibots
 
-## Antibots
+Hashtags
 
-## Hashtags
-
-## FAQ - Preguntas frecuentes
-
+FAQ - Preguntas frecuentes
