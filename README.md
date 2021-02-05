@@ -6,20 +6,20 @@
 - Hashtags
 - FAQ - Preguntas frecuentes
 
-Registro
+## Registro
 
-Configuración
+## Configuración
 
-Comandos
+## Comandos
 
 | Comandos | Descripción |
 | -------- | ----------- |
 | `/profile` | Perfil de SocialClub
 
-Configuración del bot en supergrupos
+## Configuración del bot en supergrupos
 
-Antibots
+## Antibots
 
-Hashtags
+## Hashtags
 
-FAQ - Preguntas frecuentes
+## FAQ - Preguntas frecuentes
