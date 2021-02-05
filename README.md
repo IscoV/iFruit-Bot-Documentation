@@ -4,8 +4,8 @@
 - Registro
 - Comandos
   - [Comandos de configuración del bot](#comandos-de-configuraci%C3%B3n-del-bot)
-  - [Comandos útiles]()
-  - [Emojis animados]()
+  - [Comandos útiles](#comandos-útiles)
+  - [Emojis animados](#emojis-animados)
 - Antibots
 - Hashtags
 - FAQ - Preguntas frecuentes
