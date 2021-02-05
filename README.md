@@ -1,20 +1,7 @@
-# iFruit Bot Telegram Documentation
+## Documentación
 - Registro
 - Configuración
 - Configuración del bot en supergrupos
 - Antibots
-- Hashtags
+- Hashtag
 - FAQ - Preguntas frecuentes
-
-
-## Registro
-
-## Configuración
-
-## Configuración del bot en supergrupos 
-
-## Antibots
-
-## Hashtags
-
-## FAQ - Preguntas frecuentes
