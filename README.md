@@ -1,5 +1,5 @@
 # Documentación
-- Funcionamiento
+- Ejemplo de uso
 - Configuración del bot en supergrupos
 - Registro
 - Comandos
@@ -7,7 +7,7 @@
 - Hashtags
 - FAQ - Preguntas frecuentes
 
-## Funcionamiento de comandos
+## Ejemplo de uso
 Para poder usar los comandos, debes usar `/` o `!` junto al nombre del comando.
 > - Ejemplo de uso:
 `/profile o !profile` 
