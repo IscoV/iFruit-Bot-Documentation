@@ -8,10 +8,10 @@
 - FAQ - Preguntas frecuentes
 
 ## Funcionamiento de comandos
-Puedes llamar al comando `profile` de las siguientes dos maneras:
-`!profile` o `/profile`.
-
-> El resto de comandos siguen el mismo patrón
+Para poder usar los comandos, debes usar `/` o `!` junto al nombre del comando.
+> - Ejemplo de uso:
+`/profile o !profile` 
+ 
 
 ## Configuración del bot en supergrupos
 El bot permite configurar ciertos parámetros para el correcto funcionamiento de sus comandos en supergrupos haciendo uso del comando `[/ o !] setting`.
