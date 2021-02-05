@@ -1,4 +1,4 @@
-# iFruit Bot Telegram Documentation
+# Documentación
 
 - Registro
 - Configuración
