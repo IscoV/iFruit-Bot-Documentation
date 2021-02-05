@@ -39,6 +39,7 @@ El bot permite configurar ciertos parámetros para el correcto funcionamiento de
 | `[/ o !] delhash #hash` | Elimina un #hashtag del grupo |
 
 ## Antibots
+[Combot AntiSpam System](https://cas.chat/)
 
 ## Hashtags
 
