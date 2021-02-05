@@ -32,17 +32,19 @@ El bot permite configurar ciertos parámetros para el correcto funcionamiento de
 
 ## Comandos
 
-| Comandos | Descripción |
-| -------- | ----------- |
-| `/profile` | Perfil de SocialClub (Requiere registro previo con el bot). Permite compartir tu perfil en otros grupos |
-| `/sethash #hash` | Guarda un #hashtag en el grupo. (Funciona mediante respuesta a un mensaje o añadiendo un texto personalizado) |
-| `/delhash #hash` | Elimina un #hashtag del grupo |
-| `/dardo` | Juego de dardos animados |
-| `/dados` | Juego de dado animado |
-| `/gol` | Juego de penalti |
-| `/basket` | Juego de baloncesto |
-| `/slots` | Juego de tragaperras |
-
+| Comandos | Parámetros | Descripción |
+| -------- | ---------- | ----------- |
+| `/profile` |  | Perfil de SocialClub (Requiere registro previo con el bot). Permite compartir tu perfil en otros grupos |
+| `/sethash` + `#hash` + `texto`| Funciona mediante respuesta a un mensaje o añadiendo un texto personalizado | Guarda un #hashtag en el grupo. |
+| `/delhash` + `#hash`| #hash a eliminar | Elimina un #hashtag del grupo |
+| `/dardos` |  | Juego de dardos animados |
+| `/dados` |  | Juego de dado animado |
+| `/gol` |  | Juego de penalti |
+| `/basket` |  | Juego de baloncesto |
+| `/slots` |  | Juego de tragaperras |
+| `/di` + `texto` | Texto que el bot repetirá | |
+| `@admin`| Mediante respuesta a un mensaje | |
+ 
 ## Antibots
 [Combot AntiSpam System](https://cas.chat/)
 
