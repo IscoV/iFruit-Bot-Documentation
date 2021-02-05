@@ -1,7 +1,7 @@
 # Documentación
 - Ejemplo de uso
 - [Configuración del bot en supergrupos](#configuración-del-bot-en-supergrupos)
-- Registro de usuarios
+- [Registro de usuarios](#registro-de-usuarios)
 - [Comandos](#comandos)
   - [Comandos de configuración del bot](#comandos-de-configuraci%C3%B3n-del-bot)
   - [Comandos útiles](#comandos-útiles)
