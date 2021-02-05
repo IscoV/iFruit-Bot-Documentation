@@ -53,6 +53,7 @@ Las lista de comandos del bot es la siguiente:
 | `@admin`| Mediante respuesta a un mensaje | Avisa a todos los administradores |
  
 ## Antibots
+El bot utiliza un sistema de rastreo de IDs de Telegram. Al ingresar un nuevo usuario al grupo, el bot hace una comprobación en este sistema y en base a sus resultados el usuario es baneado directamente e indefinidamente o en caso contrario tendrá que pasar la verificación humana teniendo que pulsar un botón.
 [Combot AntiSpam System](https://cas.chat/)
 
 ## Hashtags
