@@ -7,8 +7,8 @@
 - Hashtags
 - FAQ - Preguntas frecuentes
 
-## Funcionamiento
-El bot detecta los comandos de dos maneras distintas, por ejemplo, puedes llamar al comando `profile` de las siguientes maneras:
+## Funcionamiento de comandos
+Puedes llamar al comando `profile` de las siguientes dos maneras:
 `!profile` o `/profile`.
 
 > El resto de comandos siguen el mismo patrón
