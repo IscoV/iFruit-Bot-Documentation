@@ -12,6 +12,7 @@ Puedes llamar al comando `profile` de las siguientes dos maneras:
 `!profile` o `/profile`.
 
 > El resto de comandos siguen el mismo patrón
+
 ## Configuración del bot en supergrupos
 El bot permite configurar ciertos parámetros para el correcto funcionamiento de sus comandos en supergrupos haciendo uso del comando `[/ o !] setting`.
 - Ejemplos:
