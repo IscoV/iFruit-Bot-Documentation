@@ -9,8 +9,15 @@
 
 ## Ejemplo de uso
 Para poder usar los comandos, debes usar `/` o `!` junto al nombre del comando.
-> - Ejemplo de uso:
-`/profile o !profile` 
+
+> Ejemplo de uso:
+```js
+/profile
+```
+> o también 
+```js
+!profile
+```
  
 
 ## Configuración del bot en supergrupos
