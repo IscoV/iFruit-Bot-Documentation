@@ -32,6 +32,16 @@ El bot permite configurar ciertos parámetros para el correcto funcionamiento de
   - Habilitar o deshabilitar la función antibots.
 
 ## Registro de usuarios
+El registro de usuarios se lleva a cabo para que los usuarios puedan compartir su perfil del Social Club con mayor rapidez y puedan ser añadidos en lista de amigos de otros usuarios.
+
+Para este proceso solo recogemos algunos datos esenciales para poder funcionar correctamente.
+- ID de usuario de Telegram
+- Nombre de usuario de Telegram
+
+Al continuar con el proceso de registro, se recogerán:
+- Nombre de usuario del SocialClub
+- Nivel de la cuenta de SocialClub
+- Plataforma en la que se juega
 
 ## Comandos
 Ciertos comandos requieren parámetros, para que se entienda su funcionamiento exponemos un ejemplo:
