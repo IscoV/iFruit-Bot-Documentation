@@ -1,10 +1,13 @@
 # Documentación
+- Funcionamiento
 - Configuración del bot en supergrupos
 - Registro
 - Comandos
 - Antibots
 - Hashtags
 - FAQ - Preguntas frecuentes
+
+## Funcionamiento
 
 ## Configuración del bot en supergrupos
 El bot permite configurar ciertos parámetros para el correcto funcionamiento de sus comandos en supergrupos haciendo uso del comando `[/ o !] setting`.
