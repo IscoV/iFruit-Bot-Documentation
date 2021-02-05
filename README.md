@@ -1,12 +1,12 @@
 # Documentación
 - Ejemplo de uso
-- Configuración del bot en supergrupos
+- [Configuración del bot en supergrupos](#configuración-del-bot-en-supergrupos)
 - Registro
-- Comandos
+- [Comandos](#comandos)
   - [Comandos de configuración del bot](#comandos-de-configuraci%C3%B3n-del-bot)
   - [Comandos útiles](#comandos-útiles)
   - [Emojis animados](#emojis-animados)
-- Antibots
+- [Antibots](#antibots)
 - Hashtags
 - FAQ - Preguntas frecuentes
 
