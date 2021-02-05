@@ -1,12 +1,10 @@
 # Documentación
+- Configuración del bot en supergrupos
 - Registro
 - Comandos
-- Configuración del bot en supergrupos
 - Antibots
 - Hashtags
 - FAQ - Preguntas frecuentes
-
-## Registro
 
 ## Configuración del bot en supergrupos
 El bot permite configurar ciertos parámetros para el correcto funcionamiento de sus comandos en supergrupos haciendo uso del comando `[/ o !] setting`.
@@ -15,6 +13,8 @@ El bot permite configurar ciertos parámetros para el correcto funcionamiento de
   - Establecimiento de un mensaje de bienvenida personalizado.
   - Establecimiento del número de advertencias que recibirá un usuario antes de ser expulsado en caso de exceder el limite de las mismas.
   - Habilitar o deshabilitar la función antibots.
+
+## Registro
 
 ## Comandos
 
