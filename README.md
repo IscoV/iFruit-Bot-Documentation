@@ -3,6 +3,9 @@
 - Configuración del bot en supergrupos
 - Registro
 - Comandos
+  - [Comandos de configuración del bot](#comandos-de-configuraci%C3%B3n-del-bot)
+  - [Comandos útiles]()
+  - [Emojis animados]()
 - Antibots
 - Hashtags
 - FAQ - Preguntas frecuentes
