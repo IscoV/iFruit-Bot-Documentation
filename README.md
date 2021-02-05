@@ -34,14 +34,14 @@ El bot permite configurar ciertos parámetros para el correcto funcionamiento de
 
 | Comandos | Descripción |
 | -------- | ----------- |
-| `[/ o !] profile` | Perfil de SocialClub (Requiere registro previo con el bot). Permite compartir tu perfil en otros grupos |
-| `[/ o !] sethash #hash` | Guarda un #hashtag en el grupo. (Funciona mediante respuesta a un mensaje o añadiendo un texto personalizado) |
-| `[/ o !] delhash #hash` | Elimina un #hashtag del grupo |
-| `[/ o !] dardo` | Juego de dardos animados |
-| `[/ o !] dados` | Juego de dado animado |
-| `[/ o !] gol` | Juego de penalti |
-| `[/ o !] basket` | Juego de baloncesto |
-| `[/ o !] slots` | Juego de tragaperras |
+| `/profile` | Perfil de SocialClub (Requiere registro previo con el bot). Permite compartir tu perfil en otros grupos |
+| `/sethash #hash` | Guarda un #hashtag en el grupo. (Funciona mediante respuesta a un mensaje o añadiendo un texto personalizado) |
+| `/delhash #hash` | Elimina un #hashtag del grupo |
+| `/dardo` | Juego de dardos animados |
+| `/dados` | Juego de dado animado |
+| `/gol` | Juego de penalti |
+| `/basket` | Juego de baloncesto |
+| `/slots` | Juego de tragaperras |
 
 ## Antibots
 [Combot AntiSpam System](https://cas.chat/)
