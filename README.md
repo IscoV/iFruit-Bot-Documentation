@@ -1,6 +1,7 @@
 # Documentación
 - Registro
 - Configuración
+  - Añadir bot como administrador
 - Configuración del bot en supergrupos
 - Antibots
 - Hashtags
