@@ -19,6 +19,11 @@
 | `[/ o !] delhash #hash` | Elimina un #hashtag del grupo |
 
 ## Configuración del bot en supergrupos
+El bot permite configurar ciertos parámetros para el correcto funcionamiento de sus comandos en supergrupos.
+- Ejemplos:
+  - Establecimiento de un mensaje de bienvenida personalizado.
+  - Establecimiento del número de advertencias que recibirá un usuario antes de ser expulsado en caso de exceder el limite de las mismas.
+  - Habilitar o deshabilitar la función antibots.
 
 ## Antibots
 
