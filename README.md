@@ -61,7 +61,7 @@ Las lista de comandos del bot es la siguiente:
 | `/basket` | Juego de baloncesto |
 | `/slots` | Juego de tragaperras |
 
-
+### Otros comandos
 | Comandos | Parámetros | Descripción |
 | -------- | ---------- | ----------- |
 | `/di` + `texto` | Texto que el bot repetirá | Todo el texto que añadas, el bot lo repetirá |
