@@ -42,6 +42,7 @@ El bot permite configurar ciertos parámetros para el correcto funcionamiento de
 | `[/ o !] gol` | Juego de penalti |
 | `[/ o !] basket` | Juego de baloncesto |
 | `[/ o !] slots` | Juego de tragaperras |
+
 ## Antibots
 [Combot AntiSpam System](https://cas.chat/)
 
