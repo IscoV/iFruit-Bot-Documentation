@@ -1,24 +1,12 @@
 # Documentación
 - Registro
-- Configuración
-  - Añadir bot como administrador
+- Comandos
 - Configuración del bot en supergrupos
 - Antibots
 - Hashtags
 - FAQ - Preguntas frecuentes
 
 ## Registro
-
-## Configuración
-- Añadir bot como administrador
-
-## Comandos
-
-| Comandos | Descripción |
-| -------- | ----------- |
-| `[/ o !] profile` | Perfil de SocialClub (Requiere registro previo con el bot). Permite compartir tu perfil en otros grupos |
-| `[/ o !] sethash #hash` | Guarda un #hashtag en el grupo. (Funciona mediante respuesta a un mensaje o añadiendo un texto personalizado) |
-| `[/ o !] delhash #hash` | Elimina un #hashtag del grupo |
 
 ## Configuración del bot en supergrupos
 El bot permite configurar ciertos parámetros para el correcto funcionamiento de sus comandos en supergrupos haciendo uso del comando `[/ o !] setting`.
@@ -27,6 +15,14 @@ El bot permite configurar ciertos parámetros para el correcto funcionamiento de
   - Establecimiento de un mensaje de bienvenida personalizado.
   - Establecimiento del número de advertencias que recibirá un usuario antes de ser expulsado en caso de exceder el limite de las mismas.
   - Habilitar o deshabilitar la función antibots.
+
+## Comandos
+
+| Comandos | Descripción |
+| -------- | ----------- |
+| `[/ o !] profile` | Perfil de SocialClub (Requiere registro previo con el bot). Permite compartir tu perfil en otros grupos |
+| `[/ o !] sethash #hash` | Guarda un #hashtag en el grupo. (Funciona mediante respuesta a un mensaje o añadiendo un texto personalizado) |
+| `[/ o !] delhash #hash` | Elimina un #hashtag del grupo |
 
 ## Antibots
 
