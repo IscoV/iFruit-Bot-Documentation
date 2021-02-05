@@ -36,19 +36,31 @@ Ciertos comandos requieren parámetros, para que se entienda su funcionamiento e
 /sethash #hashExample Example hash saved
 ```
 Las lista de comandos del bot es la siguiente:
+### Comandos de configuración del bot
+| Comandos | Descripción |
+| -------- | ----------- |
+| `/profile` | Perfil de SocialClub (Requiere registro previo con el bot). Permite compartir tu perfil en otros grupos |
+| `/setting` | Permite cambiar los ajustes del bot dentro de un grupo |
 
+### Comandos útiles
 | Comandos | Parámetros | Descripción |
 | -------- | ---------- | ----------- |
-| `/profile` |  | Perfil de SocialClub (Requiere registro previo con el bot). Permite compartir tu perfil en otros grupos |
-| `/setting` | | Permite cambiar los ajustes del bot dentro de un grupo |
 | `/hash` | | Permite obtener la lista de #hashtags de un grupo. |
 | `/sethash` + `#hash` + `texto`| Funciona mediante respuesta a un mensaje o añadiendo un texto personalizado | Guarda un #hashtag en el grupo. |
 | `/delhash` + `#hash`| #hash a eliminar | Elimina un #hashtag del grupo |
-| `/dardos` |  | Juego de dardos animados |
-| `/dados` |  | Juego de dado animado |
-| `/gol` |  | Juego de penalti |
-| `/basket` |  | Juego de baloncesto |
-| `/slots` |  | Juego de tragaperras |
+
+### Emojis animados
+| Comandos | Descripción |
+| -------- | ----------- |
+| `/dardos` | Juego de dardos animados |
+| `/dados` | Juego de dado animado |
+| `/gol`  | Juego de penalti |
+| `/basket` | Juego de baloncesto |
+| `/slots` | Juego de tragaperras |
+
+
+| Comandos | Parámetros | Descripción |
+| -------- | ---------- | ----------- |
 | `/di` + `texto` | Texto que el bot repetirá | Todo el texto que añadas, el bot lo repetirá |
 | `@admin`| Mediante respuesta a un mensaje | Avisa a todos los administradores |
  
