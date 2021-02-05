@@ -37,7 +37,11 @@ El bot permite configurar ciertos parámetros para el correcto funcionamiento de
 | `[/ o !] profile` | Perfil de SocialClub (Requiere registro previo con el bot). Permite compartir tu perfil en otros grupos |
 | `[/ o !] sethash #hash` | Guarda un #hashtag en el grupo. (Funciona mediante respuesta a un mensaje o añadiendo un texto personalizado) |
 | `[/ o !] delhash #hash` | Elimina un #hashtag del grupo |
-
+| `[/ o !] dardo` | Juego de dardos animados |
+| `[/ o !] dados` | Juego de dado animado |
+| `[/ o !] gol` | Juego de penalti |
+| `[/ o !] basket` | Juego de baloncesto |
+| `[/ o !] slots` | Juego de tragaperras` |
 ## Antibots
 [Combot AntiSpam System](https://cas.chat/)
 
